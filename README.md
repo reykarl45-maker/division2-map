@@ -1,1 +1,1 @@
-# division2-map
+# division2-mapdata.geojson
